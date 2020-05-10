@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\manager\StorageManager.java">
+<error line="4" severity="warning" message="Wrong lexicographical order for &apos;java.util.LinkedList&apos; import. Should be before &apos;java.util.List&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\manager\StorageManagerUtils.java">
+<error line="6" severity="warning" message="Extra separation in import group before &apos;ua.lviv.iot.model.AbstractStorage&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="12" column="3" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="29" column="3" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="46" column="3" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="57" severity="warning" message="Line is longer than 100 characters (found 109)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="59" column="3" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\model\AbstractCappedStorage.java">
+<error line="15" column="64" severity="warning" message="Abbreviation in name &apos;priceInUAH&apos; must contain no more than &apos;2&apos; consecutive capital letters." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+<error line="17" severity="warning" message="Line is longer than 100 characters (found 109)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\model\AbstractStorage.java">
+<error line="6" column="20" severity="warning" message="Abbreviation in name &apos;priceInUAH&apos; must contain no more than &apos;2&apos; consecutive capital letters." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+<error line="30" column="17" severity="warning" message="Abbreviation in name &apos;getPriceInUAH&apos; must contain no more than &apos;2&apos; consecutive capital letters." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+<error line="34" column="15" severity="warning" message="Abbreviation in name &apos;setPriceInUAH&apos; must contain no more than &apos;2&apos; consecutive capital letters." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+<error line="34" column="36" severity="warning" message="Abbreviation in name &apos;priceInUAH&apos; must contain no more than &apos;2&apos; consecutive capital letters." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+<error line="70" severity="warning" message="Line is longer than 100 characters (found 120)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="70" column="3" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="70" column="58" severity="warning" message="Abbreviation in name &apos;priceInUAH&apos; must contain no more than &apos;2&apos; consecutive capital letters." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\model\BodyMaterial.java">
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\model\Cap.java">
+<error line="17" severity="warning" message="Line is longer than 100 characters (found 108)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="17" column="46" severity="warning" message="Abbreviation in name &apos;priceInUAH&apos; must contain no more than &apos;2&apos; consecutive capital letters." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+<error line="19" severity="warning" message="Line is longer than 100 characters (found 109)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\model\CapMaterial.java">
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\model\ContainerShape.java">
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\model\ContainerType.java">
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\model\JarFunction.java">
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\model\SortingType.java">
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\model\ThermosType.java">
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\storages\Basket.java">
+<error line="36" severity="warning" message="Line is longer than 100 characters (found 111)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="36" column="3" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="36" column="49" severity="warning" message="Abbreviation in name &apos;priceInUAH&apos; must contain no more than &apos;2&apos; consecutive capital letters." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+<error line="38" severity="warning" message="Line is longer than 100 characters (found 109)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\storages\FoodContainer.java">
+<error line="29" severity="warning" message="Line is longer than 100 characters (found 118)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="29" column="56" severity="warning" message="Abbreviation in name &apos;priceInUAH&apos; must contain no more than &apos;2&apos; consecutive capital letters." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+<error line="31" severity="warning" message="Line is longer than 100 characters (found 109)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\storages\Jar.java">
+<error line="27" severity="warning" message="Line is longer than 100 characters (found 108)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="27" column="46" severity="warning" message="Abbreviation in name &apos;priceInUAH&apos; must contain no more than &apos;2&apos; consecutive capital letters." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+<error line="29" severity="warning" message="Line is longer than 100 characters (found 109)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="C:\Users\Orest\work\Java_Lab3\src\main\java\ua\lviv\iot\storages\Thermos.java">
+<error line="19" severity="warning" message="Line is longer than 100 characters (found 112)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="19" column="50" severity="warning" message="Abbreviation in name &apos;priceInUAH&apos; must contain no more than &apos;2&apos; consecutive capital letters." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+<error line="21" severity="warning" message="Line is longer than 100 characters (found 109)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+</checkstyle>
